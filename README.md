@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adam</h1>
-<h3 align="center">Passionate Ruby on Rails developer based in Poland with over 3 years of commercial experience. My passion for programming goes beyond just backend development, as I also enjoy working with front-end technologies like Vue and React.</h3>
+<h3 align="center">Passionate Ruby on Rails developer based in Poland with over 3 years of commercial experience. My passion for programming goes beyond just backend development, as I also enjoy working with front-end technologies like React/TypeScript.</h3>
 
 - 🌱 I'm currently studying Computer Science
 
